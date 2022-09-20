@@ -11,7 +11,7 @@ public class StarPrograme {
 			System.out.println("");
 		}
 		
-	}
+	}//new 
 	public void reverse() {
 		
 		String str= "Gokila";
